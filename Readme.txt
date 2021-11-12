@@ -5,5 +5,6 @@ Alumnos:
 * Arvizu González Abraham
 * Rosas Palacios Alan
 * Enriquez Melendez Jesus
-
+* Acosta Villa Cristian Abraham
+* Monzon Mogollan Daniela
 ** Cronograma: https://correoipn-my.sharepoint.com/:x:/g/personal/arosasp1300_alumno_ipn_mx/EY1sb0FO1Y9EhDCCSrKQ-I4BLvqTYU6hGpXfsnPhMYzhDg?e=zMy6nx **
