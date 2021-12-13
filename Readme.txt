@@ -7,4 +7,4 @@ Alumnos:
 * Enriquez Melendez Jesus
 * Acosta Villa Cristian Abraham
 * Monzon Mogollan Daniela
-** Cronograma: https://correoipn-my.sharepoint.com/:x:/g/personal/arosasp1300_alumno_ipn_mx/EY1sb0FO1Y9EhDCCSrKQ-I4BLvqTYU6hGpXfsnPhMYzhDg?e=zMy6nx **
+** Cronograma: https://correoipn-my.sharepoint.com/:x:/g/personal/arosasp1300_alumno_ipn_mx/EeMUwWNU1IVKpBvP3evBMR0BUB_YbtsLFxdbR88PjhcitQ?e=e4FE5L**
